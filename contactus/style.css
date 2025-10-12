@@ -1,0 +1,130 @@
+body {
+    background-color: #2E414B !important;
+}
+
+.navb {
+	top: 0;
+	background-color: #B7ADCF;
+	width: 100%;
+    margin-bottom: 50px;
+	padding: 10px;
+	padding-left: 7%;
+	padding-right: 7%;
+	z-index: 9999;
+}
+
+.navb form {
+	margin-left: auto;
+}
+
+.nav-item {
+	border-radius: 20px;
+	margin-right: 3px;
+}
+
+.nav-link {
+    background-color: #2E414B !important; 
+    border-radius: 100px !important; 
+    color: #B7ADCF !important;
+    margin-right: 7px;
+}
+
+#activepill {
+    background-color: #ffffff !important; 
+    border-radius: 100px !important; 
+    color: #2E414B !important;
+}
+
+
+#search, select {
+    width: 70%;
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: white !important;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    width: 40px !important;
+    margin-right: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+    width: 100px !important;
+}
+
+
+#header {
+    text-align: center;
+    color: #2E414B;
+    background-color: #B7ADCF;
+    padding: 10px;
+    border-radius: 30px;
+    font-family: "Madimi One", serif;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #B7ADCF !important;
+    font-family: "Madimi One", serif;
+    font-weight: 400;
+    margin-bottom: 10px;
+    font-style: normal;
+    margin: 10px;
+    text-align: left;
+}
+
+h3, h6 {
+    margin: 10px;
+}
+
+.col-md-6 {
+    padding: 15px;
+    color: #B7ADCF;
+}
+
+.card {
+    padding: 5px;
+    background-color: #535657 !important;
+    text-align: center;
+    color: #B7ADCF !important;
+    margin-bottom: 30px;
+    margin: 10px;
+    width: 100%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+    display: inline;
+}
+
+#hours {
+    background-color: #535657;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+    margin-bottom: 30px;
+    text-align: center;
+    color: #B7ADCF !important;
+}
+
+input {
+    background-color: #B7ADCF !important;
+}
+
+.btn {
+    background-color: #B7ADCF !important;
+    color: #2E414B !important;
+    width: 20%;
+}
+
+.center {
+    text-align: center;
+}
+
